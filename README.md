@@ -56,3 +56,7 @@ py -m unittest discover -s tests
 The tests build real repositories in a temp folder, with a bare repository standing in for the remote. They cover worktrees, stashes, detached HEADs, a merge conflict, junctions and leftover `.git` folders, and they run with an empty git config so your own settings can't change the results.
 
 MIT License.
+
+## More tools
+
+Made by [jtclone22-coder](https://github.com/jtclone22-coder): more free Windows tools are on that profile, and paid ones (DevSweep, Overnight, AssetAtlas) are on [Gumroad](https://clonemaster152.gumroad.com).
